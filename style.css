@@ -1,0 +1,33 @@
+#detectado{
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-color: rgb(0, 255, 255);
+}
+
+#h2{
+    color: rgb(0, 4, 255);
+}
+
+#p{
+    color: rgb(0, 4, 255);
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 1000;
+    letter-spacing: 4px;
+    font-size: 30;
+}
+
+#iniciar{
+    font-family: 'Roboto Mono',monospace;
+    font-weight: bold;
+    color:black;
+}
+#footer{
+    background-color: blue;
+    color: aqua;
+}
+
+#img{
+    width: 300px;
+    height: 200px;
+}
